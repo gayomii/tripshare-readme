@@ -3,6 +3,8 @@
 # 트립쉐어(TripShare) - 실시간 여행 커뮤니티 & 여행 계획 공유 애플리케이션
 #### 전세계 여행자들이 서로 연결되고, 새로운 사람들과 새로운 곳에서 만나 소통하며 함께 여행 계획을 세워보세요!
 
+<a href="https://apps.apple.com/kr/app/tripshare/id6736657723">앱스토어 설치 링크</a>
+
 <br><br>
 <img src="https://github.com/user-attachments/assets/b0678de7-3eb6-4871-8ffc-e3bce9c8aeda" width="80" />
 <b>혼자서 유럽 배낭여행을 계획중인 20대 대학생 김유리</b>
