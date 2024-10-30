@@ -80,7 +80,7 @@
 <img width="15%" alt="Group 6" src="https://github.com/user-attachments/assets/7820d948-1e9a-4570-91ed-9aa03e4c2a79">
 
 
-<br>
+<br><br>
 
 ## 🐞 이슈 리포트
 앱을 사용하는 도중 버그를 발견하시거나 개선 사항을 남겨주세요!
