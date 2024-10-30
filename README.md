@@ -51,6 +51,9 @@
 |------|---|---|--|
 |<a href="https://github.com/hyuk9833">hyuk9833</a>|<a href="https://github.com/sulkiring">sulkiring</a>|<a href="https://github.com/gayomii">gayomii</a>|<a href="https://github.com/gkstjgms">gkstjgms</a>|
 
+팀 Repo: https://github.com/tripshare-project
+(repo는 private입니다..🥲)
+
 <br>
 
 ## 📆 트립쉐어 프로젝트 기간
