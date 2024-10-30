@@ -3,7 +3,7 @@
 # 트립쉐어(TripShare) - 실시간 여행 커뮤니티 & 여행 계획 공유 애플리케이션
 #### 전세계 여행자들이 서로 연결되고, 새로운 사람들과 새로운 곳에서 만나 소통하며 함께 여행 계획을 세워보세요!
 
-<a href="https://apps.apple.com/kr/app/tripshare/id6736657723">앱스토어 설치 링크</a>
+
 
 <br><br>
 <img src="https://github.com/user-attachments/assets/b0678de7-3eb6-4871-8ffc-e3bce9c8aeda" width="80" />
@@ -30,30 +30,6 @@
 > "외국인 친구를 사귀고 싶어요!! 저희 레스토랑에도 놀러오라고 초대하고 싶어요!! 저희 레스토랑을 홍보할 수 있는 매체가 있으면 좋을 것 같아요!!"
 
 <br><br>
-
-<img width="320" alt="Group 1" src="https://github.com/user-attachments/assets/7d5c59bd-cbf3-44bd-96fd-e392fc0e04f4">
-
-<br>
-
-<img width="320" alt="Group 2" src="https://github.com/user-attachments/assets/b6bc94c0-47af-47f6-b61e-4605ed7f4df5">
-
-<br>
-
-<img width="320" alt="Group 3" src="https://github.com/user-attachments/assets/a733e55a-98b2-473b-a090-09ab6ef7d280">
-
-<br>
-
-<img width="320" alt="Group 4" src="https://github.com/user-attachments/assets/f34977eb-dd88-40e0-a769-99c796bf6842">
-
-<br>
-
-<img width="320" alt="Group 5" src="https://github.com/user-attachments/assets/13417faa-e80e-42e7-ac66-5983cc2ddca7">
-
-<br>
-
-<img width="320" alt="Group 6" src="https://github.com/user-attachments/assets/7820d948-1e9a-4570-91ed-9aa03e4c2a79">
-
-<br>
 
 ## ✨ 주요 기능
 ### 💬 도시별 커뮤니티
@@ -83,17 +59,26 @@
 <br>
 
 ## 🛠️ 기술 스택
-- 언어: `Javascript`
-- 프레임워크: `React Native`
-- 데이터베이스 & 사용자 인증: `supabase`
-- 알림 기능: `Firebase`
+- 언어: `Javascript (ES6)`
+- 프레임워크: `React Native v0.74`
+- 데이터베이스 & 사용자 인증: `supabase v2`
+- 알림 기능: `Firebase v10`
 - IDE: `Visual Studio`
 
 
 <br>
 
-## ✔️ 버전 정보
-- v1.0.7
+## ✔️ 설치 및 실행
+- iOS 13.4 이상 필요
+- <a href="https://apps.apple.com/kr/app/tripshare/id6736657723">앱스토어 설치 링크</a>
+
+<img width="15%" alt="Group 1" src="https://github.com/user-attachments/assets/7d5c59bd-cbf3-44bd-96fd-e392fc0e04f4">
+<img width="15%" alt="Group 2" src="https://github.com/user-attachments/assets/b6bc94c0-47af-47f6-b61e-4605ed7f4df5">
+<img width="15%" alt="Group 3" src="https://github.com/user-attachments/assets/a733e55a-98b2-473b-a090-09ab6ef7d280">
+<img width="15%" alt="Group 4" src="https://github.com/user-attachments/assets/f34977eb-dd88-40e0-a769-99c796bf6842">
+<img width="15%" alt="Group 5" src="https://github.com/user-attachments/assets/13417faa-e80e-42e7-ac66-5983cc2ddca7">
+<img width="15%" alt="Group 6" src="https://github.com/user-attachments/assets/7820d948-1e9a-4570-91ed-9aa03e4c2a79">
+
 
 <br>
 
